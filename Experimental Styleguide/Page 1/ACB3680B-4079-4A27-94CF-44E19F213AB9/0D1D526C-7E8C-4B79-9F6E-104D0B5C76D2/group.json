@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "0D1D526C-7E8C-4B79-9F6E-104D0B5C76D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A81C6C0-EBCF-4A77-A724-77248EF05F73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3600E3E3-A560-4F00-A02C-B2F81F6D3009",
+    "height": 80,
+    "width": 324,
+    "x": 57,
+    "y": 340.0000000000001
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CDF7EAC-3FFC-4F12-973D-5CE7C3BDBE3E"
+    }
+  ],
+  "name": "Roe bottom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "681EC12D-FF93-4777-A6DA-59B104104FBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

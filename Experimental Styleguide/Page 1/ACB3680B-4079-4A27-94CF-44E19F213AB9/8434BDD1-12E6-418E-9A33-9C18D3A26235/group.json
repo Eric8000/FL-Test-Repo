@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8434BDD1-12E6-418E-9A33-9C18D3A26235",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47502FF0-B583-492B-87D9-4EFE38E4CE51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B30647E6-F008-4272-8AD4-B946701FE7E2",
+    "height": 80,
+    "width": 324,
+    "x": 57,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CC3AA81-58DB-45D1-9C10-CA1A1B71EE31"
+    }
+  ],
+  "name": "Row top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E3057D9-C6E1-44D4-8D81-657D2B7B8AE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
