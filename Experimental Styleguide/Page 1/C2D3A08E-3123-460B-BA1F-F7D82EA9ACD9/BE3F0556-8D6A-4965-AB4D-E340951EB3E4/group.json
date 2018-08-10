@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "BE3F0556-8D6A-4965-AB4D-E340951EB3E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3AA7D69-ECD6-4B11-83E6-229F44341BC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BE67625F-CF01-41E4-9129-761774630B5B",
+    "height": 114,
+    "width": 341,
+    "x": 57,
+    "y": 199.0000000000001
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26E80A4F-018A-47FC-B18F-36F3F40641B9"
+    }
+  ],
+  "name": "Row middle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -180,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6A3123D-F1D5-4AE9-8FC8-0EBDC4917728",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
