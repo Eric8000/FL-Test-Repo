@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "773E9BED-68F3-4F2E-872C-0FD33370AFDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03FD34E2-F89C-4E1E-B31D-D144AC8DD057",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A66B065-3140-44F3-8A8A-59080E2A3315",
+    "height": 114,
+    "width": 341,
+    "x": 171,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Row Blue Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A87F63D1-5907-4A51-B6EF-B18FEDBE950C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDA66182-83E5-489B-9A2C-B1FD27DA2288",
+  "verticalSpacing": 0
+}
